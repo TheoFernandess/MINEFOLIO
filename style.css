@@ -59,7 +59,7 @@ body{
   	text-shadow: 2px 1px #4C4C4C;
   	outline: 1px solid #000;
     height: 50px;
-    width: 305px;
+    width: 200px;
 }
   
 .miniminecraft-btn:hover {
@@ -84,6 +84,7 @@ body{
 }
 .botoes2{
     width: 100%;
+    margin: auto;
     cursor: pointer;
     display: flex;
     flex-direction: row;
